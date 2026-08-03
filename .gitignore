@@ -1,0 +1,45 @@
+# Virtual Environment
+.prevenv/
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+#Dataset
+data/raw/HHS_Unaccompanied_Alien_Children_Program.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment Variables
+.venv
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model Files
+models/saved_models/
+*.pkl
+*.joblib
+
+# Output Files
+outputs/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
