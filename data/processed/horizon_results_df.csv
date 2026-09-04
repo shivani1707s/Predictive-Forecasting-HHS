@@ -1,0 +1,5 @@
+Horizon,Model,Train Size,Test Size,MAE,RMSE,MAPE,Forecast Accuracy (%)
+1-Day,Gradient Boosting,392,99,81.73,101.76,3.74,96.26
+7-Day,Gradient Boosting,389,98,145.66,170.93,6.74,93.26
+14-Day,Gradient Boosting,388,97,344.23,389.87,16.0,84.0
+30-Day,Gradient Boosting,384,97,365.18,404.04,16.56,83.44
